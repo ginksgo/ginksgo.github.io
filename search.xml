@@ -4,16 +4,126 @@
   
     
     <entry>
-      <title>Hello World!</title>
-      <link href="/2023/03/20/hello-world/"/>
-      <url>/2023/03/20/hello-world/</url>
+      <title>just-for-fun</title>
+      <link href="/2023/03/31/just-for-fun/"/>
+      <url>/2023/03/31/just-for-fun/</url>
       
-        <content type="html"><![CDATA[<h1 id="title-Hello-World"><a href="#title-Hello-World" class="headerlink" title="title: Hello World"></a>title: Hello World</h1><p>Welcome to my blog! </p><p>欢迎来到我的博客！</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> Others </category>
+          <category> 玩物丧志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 好耍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>fiction-blah</title>
+      <link href="/2023/03/31/fiction-blah/"/>
+      <url>/2023/03/31/fiction-blah/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 连载小说 </category>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 小说 </tag>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>coding_blah</title>
+      <link href="/2023/03/31/coding-blah/"/>
+      <url>/2023/03/31/coding-blah/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程 </category>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+            <tag> 计划s </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>research_blah</title>
+      <link href="/2023/03/31/research-blah/"/>
+      <url>/2023/03/31/research-blah/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 研究工作 </category>
+          
+          <category> 原创研究 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World!</title>
+      <link href="/2023/03/20/hello-world/"/>
+      <url>/2023/03/20/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p><strong>Welcome to my Blog!</strong></p><p><strong>欢迎来到我的博客！</strong></p><hr><p>这里尽是我的自言自语</p><p>和我的异想天开</p><p>总之不要期待太高</p><p>随便看看就好</p><hr><p>这里是我生活的一部分</p><p>如果没有一些痕迹</p><p>如何证明我曾来过</p><p>所以我会认真记录</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂文随笔 </category>
           
       </categories>
       
